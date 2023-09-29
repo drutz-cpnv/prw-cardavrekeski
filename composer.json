@@ -1,0 +1,17 @@
+{
+    "name": "dimitrirutz/prw_cardavrekeski",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "dimitri-rutz",
+            "email": "dimitri@drutz.ch"
+        }
+    ],
+    "require": {
+        "ext-pdo": "*"
+    }
+}
